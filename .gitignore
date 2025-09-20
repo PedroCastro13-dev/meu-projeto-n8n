@@ -1,0 +1,8 @@
+# Dependências do Node.js (pasta gigante que o `npm install` baixa)
+custom-nodes/n8n-nodes-random/node_modules/
+
+# Arquivos compilados (pasta que o `npm run dev` cria)
+custom-nodes/n8n-nodes-random/dist/
+
+# Arquivo de variáveis de ambiente com senhas
+.env
